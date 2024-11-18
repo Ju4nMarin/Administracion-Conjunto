@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "rol": "propietario",
+        "usuario": "carlos.perez@gmail.com",
+        "clave": "$2y$10$NTuK\/d9ze.3naY5k6ZXYCe6gutFZ71J8\/Pk0WBIJbiERiIpgy24sa"
+    },
+    {
+        "id": 2,
+        "rol": "propietario",
+        "usuario": "margarita.torres@hotmail.com",
+        "clave": "$2y$10$Fzc7u9To7eWr3teXBHEWO.jRJGpoNYWvlwTjlXJ5Da6Lh6FicYCA6"
+    },
+    {
+        "id": 3,
+        "rol": "propietario",
+        "usuario": "luis.rodriguez@yahoo.com",
+        "clave": "$2y$10$Fzc7u9To7eWr3teXBHEWO.jRJGpoNYWvlwTjlXJ5Da6Lh6FicYCA6"
+    },
+    {
+        "id": 4,
+        "rol": "propietario",
+        "usuario": "maria.gomez@gmail.com",
+        "clave": "$2y$10$Fzc7u9To7eWr3teXBHEWO.jRJGpoNYWvlwTjlXJ5Da6Lh6FicYCA6"
+    },
+    {
+        "id": 5,
+        "rol": "propietario",
+        "usuario": "juan.lopez@gmail.com",
+        "clave": "$2y$10$R\/G9BD5F0eFJ1pQwu.EGrOnFiP\/repxkbWx1bGiVa9eNSVTRil\/DC"
+    },
+    {
+        "id": "a1",
+        "rol": "admin",
+        "usuario": "admin@example.com",
+        "clave": "$2y$10$ugsFsDyb0Lsopv6mnHWEbeOtfMk0ivFwksvpygsUQV5QTeBaJSz8a"
+    },
+    {
+        "id": "a673b189adecc6",
+        "usuario": "admin2@example.com",
+        "clave": "$2y$10$M.itAnh7g\/jhaplysVhSKet0ar929UWPZpvkYKdw1XLGbuVz7Jbc.",
+        "rol": "admin"
+    },
+    {
+        "id": "65",
+        "usuario": "Steven@gmail.com",
+        "clave": "$2y$10$jIU2\/EksEaKeF\/frzOfP..\/eacdIfTjLoKpYF6Ylx6yn.UBl0hCdK",
+        "rol": "propietario"
+    },
+    {
+        "id": "a673b97f32f3f9",
+        "usuario": "admin3@example.com",
+        "clave": "$2y$10$GHuxaL3WKN5dfeCvRWJW8eRcfvbGoq7aJhRwDW8HWr7Y2rTGOt2i2",
+        "rol": "admin"
+    },
+    {
+        "id": "a673b9a409b49a",
+        "usuario": "admin4@example.com",
+        "clave": "$2y$10$yQThlE9iI\/bcx2ozdyq2.eGSrvZrjcqUB0ftT8zUAPNWFBOMAcD2.",
+        "rol": "admin"
+    }
+]

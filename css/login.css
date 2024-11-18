@@ -1,0 +1,80 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-color: #e3f2fd; 
+}
+.login-container {
+    display: flex;
+    width: 1200px; 
+    height: 700px; 
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 12px;
+    overflow: hidden;
+    background-color: #ffffff;
+}
+.login-form {
+    flex: 1;
+    padding: 60px; 
+}
+.login-form h2 {
+    font-size: 36px; 
+    margin-bottom: 30px;
+    color: #1e88e5; 
+}
+.login-form label {
+    display: block;
+    margin: 20px 0 10px;
+    font-size: 20px;
+    color: #333;
+}
+.login-form input {
+    width: 100%;
+    padding: 15px;
+    font-size: 18px;
+    border: 2px solid #90caf9; 
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+.login-form button {
+    width: 105%;
+    padding: 15px;
+    background-color: #1e88e5; 
+    color: white;
+    border: none;
+    border-radius: 8px;
+    font-size: 20px;
+    cursor: pointer;
+    margin-top: 20px;
+
+    transition: background-color 0.3s;
+}
+
+.login-form button:hover {
+    background-color: #1565c0; 
+}
+
+
+.welcome-section {
+    flex: 1;
+    background: linear-gradient(135deg, #42a5f5, #973cd0);
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    padding: 60px;
+}
+.welcome-section h1 {
+    font-size: 36px; 
+    margin-bottom: 20px;
+}
+.welcome-section p {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
