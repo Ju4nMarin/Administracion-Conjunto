@@ -1,58 +1,61 @@
-# 🏠 ERRE 53 - Sistema de Gestión para Conjuntos Residenciales
+## 🏠 ERRE 53 - Management System for Residential Complexes
 
-## 📖 Descripción
+## 📖 Description
 
-**ERRE 53** es un sistema de gestión diseñado para conjuntos residenciales, que permite a los administradores y propietarios llevar un control eficiente de los 🏘️ inmuebles, 🧑‍💼 propietarios, 📄 facturas y 💳 pagos. La aplicación ofrece una solución integral para la administración de cuentas y el seguimiento de pagos, con una interfaz intuitiva y fácil de usar.
+**ERRE 53** is a management system designed for residential complexes, which allows managers and owners to efficiently keep track of 🏘️ properties, 🧑‍💼 owners, 📄 invoices and 💳 payments. The application offers a comprehensive solution for account management and payment tracking, with an intuitive and easy-to-use interface.
 
-## ✨ Características
+## ✨ Features
 
-- 🧑‍💼 **Gestión de Propietarios:** Registro y actualización de información detallada de los propietarios.
-- 🏘️ **Control de Inmuebles:** Registro y monitoreo de inmuebles disponibles y ocupados.
-- 📄 **Facturación:** Generación, visualización y seguimiento de facturas.
-- 💳 **Gestión de Pagos:** Registro de pagos realizados por los propietarios y actualización de cuentas.
-- 🖥️ **Interfaz Intuitiva:** Diseño amigable para garantizar una experiencia de usuario sencilla y eficiente.
-- 🔔 **Notificaciones:** Uso de alertas emergentes personalizadas con **SweetAlert2**.
+- 🧑‍💼 **Owner Management:** Registration and update of detailed owner information.
+- 🏘️ **Property Monitoring:** Registration and monitoring of available and occupied properties.
+- Invoicing:** Invoice generation, viewing and tracking.
+- Payment Management:** Registration of payments made by owners and updating of accounts.
+- 🖥️ **Intuitive Interface:** User friendly design to ensure a simple and efficient user experience.
+- 🔔 **Notifications:** Use of customisable pop-up alerts with **SweetAlert2**.
 
-## 🛠️ Tecnologías Utilizadas
+## 🛠️ Technologies Used
 
 - **Backend:**
-  - 🐘 PHP: Lógica del sistema y manejo de operaciones CRUD.
-  - 🗄️ MySQL: Base de datos para almacenar información de propietarios, inmuebles, facturas y pagos.
-  - 🛠️ XAMPP: Servidor de desarrollo local.
-- **Frontend:**
-  - 🌐 HTML y CSS: Estructura y diseño de la interfaz.
-  - ⚡ JavaScript: Interactividad y funcionalidades dinámicas.
-  - 🎨 SweetAlert2: Notificaciones emergentes elegantes y personalizadas.
+  - 🐘 PHP: System logic and CRUD operation handling.
+  - 🗄️ MySQL: Database to store information on owners, properties, invoices and payments.
+  - 🛠️ XAMPP: Local development server.
+- Frontend:**
+  - 🌐 HTML and CSS: Structure and interface design.
+  - ⚡ JavaScript: Interactivity and dynamic functionalities.
+  - 🎨 SweetAlert2: Elegant and customisable pop-up notifications.
 
-## 📋 Requisitos del Sistema
+## 📋 System Requirements
 
-- 🛠️ **XAMPP** instalado en el equipo.
-- 🌐 Navegador web moderno (Google Chrome, Mozilla Firefox, etc.).
-- 🧑‍💻 Conocimientos básicos de PHP y MySQL (para configuración inicial).
+- 🛠️ **XAMPP** installed on your computer.
+- 🌐 Modern web browser (Google Chrome, Mozilla Firefox, etc.).
+- 🧑‍💻 Basic knowledge of PHP and MySQL (for initial configuration).
 
-## 🚀 Instalación y Configuración
+## 🚀 Installation and Configuration.
 
-1. **Clona el repositorio:**
-   ```bash
+1. **Clone the repository:**
+   ````bash
    git clone https://github.com/tu-usuario/erre-53.git
    cd erre-53
-## Configura el entorno:
+## Configure the environment:
 
-Copia la carpeta del proyecto en el directorio htdocs de XAMPP.
-Inicia los servicios de Apache y MySQL desde el panel de control de XAMPP.
-Importa la base de datos:
+Copy the project folder to the XAMPP htdocs directory.
+Start the Apache and MySQL services from the XAMPP control panel.
+Import the database:
 
-Accede a phpMyAdmin desde http://localhost/phpmyadmin.
-Crea una nueva base de datos llamada torre_erre_53.
-Importa el archivo SQL proporcionado en la carpeta database del proyecto.
-Accede a la aplicación:
+Access phpMyAdmin from http://localhost/phpmyadmin.
+Create a new database called torre_erre_53.
+Import the SQL file provided in the project's database folder.
+Log in to the application:
 
-Abre tu navegador web y dirígete a http://localhost/erre-53.
+Open your web browser and go to http://localhost/erre-53.
 
-## 💡 Uso
-Los administradores pueden gestionar 🧑‍💼 propietarios, 🏘️ inmuebles, 📄 facturas y 💳 pagos desde el panel principal (Simulado).
-Los usuarios pueden visualizar su información y realizar pagos según lo configurado por el administrador.
+## 💡 Usage
+Administrators can manage 🧑‍💼 owners, 🏘️ properties, 📄 invoices and 💳 payments from the main panel (Simulated).
+Users can view their information and make payments as configured by the administrator.
 
-## 🤝 Contribuciones
-¡Las contribuciones son bienvenidas! 🙌
-Si deseas colaborar, realiza un fork del proyecto, crea una nueva rama para tu funcionalidad o corrección y envía un pull request.
+## 🤝 Contributions
+Contributions are welcome! 🙌
+If you want to contribute, make a fork of the project, create a new branch for your feature or fix and send a pull request.
+
+
+Translated with DeepL.com (free version)
