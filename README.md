@@ -43,7 +43,7 @@ Inicia los servicios de Apache y MySQL desde el panel de control de XAMPP.
 Importa la base de datos:
 
 Accede a phpMyAdmin desde http://localhost/phpmyadmin.
-Crea una nueva base de datos llamada erre53.
+Crea una nueva base de datos llamada torre_erre_53.
 Importa el archivo SQL proporcionado en la carpeta database del proyecto.
 Accede a la aplicación:
 
