@@ -48,6 +48,7 @@ Import the SQL file provided in the project's database folder.
 Log in to the application:
 
 Open your web browser and go to http://localhost/erre-53.
+(Admin user: admin@example.com, password: 12345)
 
 ## 💡 Usage
 Administrators can manage 🧑‍💼 owners, 🏘️ properties, 📄 invoices and 💳 payments from the main panel (Simulated).
