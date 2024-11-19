@@ -57,5 +57,3 @@ Users can view their information and make payments as configured by the administ
 Contributions are welcome! 🙌
 If you want to contribute, make a fork of the project, create a new branch for your feature or fix and send a pull request.
 
-
-Translated with DeepL.com (free version)
