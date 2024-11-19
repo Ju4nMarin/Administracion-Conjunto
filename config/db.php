@@ -1,9 +1,9 @@
 <?php
-// config/db.php
+
 
 $host = 'localhost';
 $dbname = 'torre_erre_53';
-$user = 'root';  // Asegúrate de cambiarlo si tienes una contraseña configurada
+$user = 'root';  
 $password = '';
 
 try {
